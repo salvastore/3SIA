@@ -1,0 +1,14 @@
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\bin\Debug\net10.0\Cartella Visual Studio Code.exe
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\bin\Debug\net10.0\Cartella Visual Studio Code.deps.json
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\bin\Debug\net10.0\Cartella Visual Studio Code.runtimeconfig.json
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\bin\Debug\net10.0\Cartella Visual Studio Code.dll
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\bin\Debug\net10.0\Cartella Visual Studio Code.pdb
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.AssemblyInfoInputs.cache
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.AssemblyInfo.cs
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.csproj.CoreCompileInputs.cache
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.dll
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\refint\Cartella Visual Studio Code.dll
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.pdb
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\Cartella Visual Studio Code.genruntimeconfig.cache
+F:\OneDrive - Salvatore Leo Ditta Individuale\01-Scuola\2026-27\Classi\3SIA\Materiali\Cartella Visual Studio Code\obj\Debug\net10.0\ref\Cartella Visual Studio Code.dll
